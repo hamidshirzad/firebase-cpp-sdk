@@ -3,3 +3,4 @@ absl-py
 pytz
 requests
 retry
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
